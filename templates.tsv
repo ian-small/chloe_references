@@ -1,172 +1,173 @@
-path	depth_threshold	coverage_threshold	median_length
-accD/?/CDS/1	0.1	0.5	1476
-atpA/?/CDS/1	0.1	0.25	1525
-atpB/?/CDS/1	0.1	0.25	1496
-atpE/?/CDS/1	0.1	0.25	402
-atpF/?/CDS/1	0.1	0.25	145
-atpF/?/CDS/2	0.1	0.25	410
-atpF/?/intron/1	0.1	0.1	746
-atpH/?/CDS/1	0.1	0.25	246
-atpI/?/CDS/1	0.1	0.25	744
-ccsA/?/CDS/1	0.05	0.125	966
-cemA/?/CDS/1	0.1	0.25	690
-chlB/?/CDS/1	0.1	0.25	1542
-chlL/?/CDS/1	0.1	0.25	876
-chlN/?/CDS/1	0.1	0.25	1402
-clpP1/?/CDS/1	0.05	0.1	71
-clpP1/?/CDS/2	0.05	0.1	292
-clpP1/?/CDS/3	0.05	0.1	228
-clpP1/?/intron/1	0.05	0.1	811
-clpP1/?/intron/2	0.05	0.1	633
-cysA/?/CDS/1	0.1	0.25	1130
-cysT/?/CDS/1	0.1	0.25	867
-infA/?/CDS/1	0.05	0.125	234
-matK/?/CDS/1	0.05	0.125	1527
-ndhA/?/CDS/1	0.1	0.25	553
-ndhA/?/CDS/2	0.1	0.25	539
-ndhA/?/intron/1	0.04	0.04	1072
-ndhB/?/CDS/1	0.1	0.25	723
-ndhB/?/CDS/2	0.1	0.25	756
-ndhB/?/intron/1	0.1	0.1	683
-ndhC/?/CDS/1	0.1	0.25	363
-ndhD/?/CDS/1	0.1	0.25	1504
-ndhE/?/CDS/1	0.1	0.25	306
-ndhF/?/CDS/1	0.1	0.25	2232
-ndhG/?/CDS/1	0.1	0.25	531
-ndhH/?/CDS/1	0.1	0.25	1182
-ndhI/?/CDS/1	0.1	0.25	504
-ndhJ/?/CDS/1	0.1	0.25	477
-ndhK/?/CDS/1	0.1	0.25	705
-petA/?/CDS/1	0.1	0.25	963
-petB/?/CDS/1	0.1	0.25	6
-petB/?/CDS/2	0.1	0.25	642
-petB/?/intron/1	0.025	0.05	781
-petD/?/CDS/1	0.1	0.25	8
-petD/?/CDS/2	0.1	0.25	475
-petD/?/intron/1	0.1	0.1	738
-petG/?/CDS/1	0.1	0.25	114
-petL/?/CDS/1	0.05	0.125	96
-petN/?/CDS/1	0.1	0.25	90
-psaA/?/CDS/1	0.1	0.25	2253
-psaB/?/CDS/1	0.1	0.25	2205
-psaC/?/CDS/1	0.05	0.125	246
-psaI/?/CDS/1	0.05	0.125	111
-psaJ/?/CDS/1	0.1	0.25	135
-psaM/?/CDS/1	0.1	0.25	93
-psbA/?/CDS/1	0.1	0.25	1062
-psbB/?/CDS/1	0.1	0.25	1526
-psbC/?/CDS/1	0.1	0.25	1386
-psbD/?/CDS/1	0.1	0.25	1062
-psbE/?/CDS/1	0.1	0.25	252
-psbF/?/CDS/1	0.1	0.25	120
-psbH/?/CDS/1	0.1	0.25	222
-psbI/?/CDS/1	0.1	0.25	111
-psbJ/?/CDS/1	0.1	0.25	123
-psbK/?/CDS/1	0.1	0.25	186
-psbL/?/CDS/1	0.1	0.25	117
-psbM/?/CDS/1	0.05	0.125	105
-pbf1/?/CDS/1	0.1	0.25	132
-psbT/?/CDS/1	0.1	0.25	108
-psbZ/?/CDS/1	0.1	0.25	189
-rbcL/?/CDS/1	0.1	0.25	1428
-rpl2/?/CDS/1	0.05	0.125	391
-rpl2/?/CDS/2	0.1	0.25	434
-rpl2/?/intron/1	0.1	0.1	665
-rpl14/?/CDS/1	0.1	0.25	369
-rpl16/?/CDS/1	0.1	0.25	9
-rpl16/?/CDS/2	0.1	0.25	399
-rpl16/?/intron/1	0.05	0.1	1042
-rpl20/?/CDS/1	0.1	0.25	360
-rpl21/?/CDS/1	0.1	0.25	356
-rpl22/?/CDS/1	0.05	0.125	456
-rpl23/?/CDS/1	0.1	0.25	282
-rpl32/?/CDS/1	0.1	0.25	168
-rpl33/?/CDS/1	0.1	0.25	201
-rpl36/?/CDS/1	0.1	0.25	114
-rpoA/?/CDS/1	0.1	0.25	1014
-rpoB/?/CDS/1	0.1	0.25	3215
-rpoC1/?/CDS/1	0.1	0.25	432
-rpoC1/?/CDS/2	0.1	0.25	1618
-rpoC1/?/intron/1	0.1	0.1	757
-rpoC2/?/CDS/1	0.1	0.25	4154
-rps2/?/CDS/1	0.1	0.25	711
-rps3/?/CDS/1	0.05	0.125	657
-rps4/?/CDS/1	0.1	0.25	606
-rps7/?/CDS/1	0.1	0.25	468
-rps8/?/CDS/1	0.1	0.25	405
-rps11/?/CDS/1	0.1	0.25	417
-rps12A/?/CDS/1	0.1	0.25	114
-rps12A/?/intron/1	0.1	0.1	650
-rps12B/?/intron/1	0.1	0.1	900
-rps12B/?/CDS/1	0.1	0.25	232
-rps12B/?/CDS/2	0.1	0.2	26
-rps12B/?/intron/2	0.1	0.1	536
-rps14/?/CDS/1	0.1	0.25	303
-rps15/?/CDS/1	0.05	0.5	273
-rps16/?/CDS/1	0.1	0.25	40
-rps16/?/CDS/2	0.1	0.25	227
-rps16/?/intron/1	0.1	0.1	860
-rps18/?/CDS/1	0.05	0.125	306
-rps19/?/CDS/1	0.1	0.25	279
-rrn4.5/?/rRNA/1	0.1	0.25	103
-rrn5/?/rRNA/1	0.1	0.25	121
-rrn16/?/rRNA/1	0.1	0.25	1491
-rrn23/?/rRNA/1	0.1	0.25	2610
-rrn23/?/intron/1	0.1	0.1	684
-rrn23/?/rRNA/2	0.1	0.25	199
-trnA-UGC/?/intron/1	0.1	0.1	808
-trnA-UGC/?/tRNA/1	0.4	0.7	38
-trnA-UGC/?/tRNA/2	0.4	0.7	35
-trnC-GCA/?/tRNA/1	0.4	0.7	71
-trnD-GUC/?/tRNA/1	0.4	0.7	74
-trnE-UUC/?/tRNA/1	0.4	0.7	73
-trnF-GAA/?/tRNA/1	0.4	0.7	73
-trnfM-CAU/?/tRNA/1	0.4	0.7	74
-trnG-GCC/?/tRNA/1	0.4	0.7	71
-trnG-UCC/?/intron/1	0.1	0.1	698
-trnG-UCC/?/tRNA/1	0.4	0.7	23
-trnG-UCC/?/tRNA/2	0.4	0.7	48
-trnH-GUG/?/tRNA/1	0.4	0.7	75
-trnI-CAU/?/tRNA/1	0.4	0.7	74
-trnI-GAU/?/intron/1	0.1	0.1	946
-trnI-GAU/?/tRNA/1	0.4	0.7	37
-trnI-GAU/?/tRNA/2	0.4	0.7	35
-trnK-UUU/?/intron/1	0.1	0.1	2515
-trnK-UUU/?/tRNA/1	0.4	0.7	37
-trnK-UUU/?/tRNA/2	0.4	0.7	35
-trnL-CAA/?/tRNA/1	0.4	0.7	81
-trnL-UAA/?/intron/1	0.1	0.1	510
-trnL-UAA/?/tRNA/1	0.4	0.7	35
-trnL-UAA/?/tRNA/2	0.4	0.7	50
-trnL-UAG/?/tRNA/1	0.4	0.7	80
-trnM-CAU/?/tRNA/1	0.4	0.7	73
-trnN-GUU/?/tRNA/1	0.4	0.7	72
-trnP-GGG/?/tRNA/1	0.4	0.7	74
-trnP-UGG/?/tRNA/1	0.4	0.7	74
-trnQ-UUG/?/tRNA/1	0.4	0.7	72
-trnR-ACG/?/tRNA/1	0.4	0.7	74
-trnR-CCG/?/tRNA/1	0.4	0.7	74
-trnR-UCU/?/tRNA/1	0.4	0.7	72
-trnS-GCU/?/tRNA/1	0.4	0.7	88
-trnS-GGA/?/tRNA/1	0.4	0.7	87
-trnS-UGA/?/tRNA/1	0.4	0.7	93
-trnT-GGU/?/tRNA/1	0.4	0.7	72
-trnT-UGU/?/tRNA/1	0.4	0.7	73
-trnV-GAC/?/tRNA/1	0.4	0.7	72
-trnV-UAC/?/intron/1	0.1	0.1	591
-trnV-UAC/?/tRNA/1	0.4	0.7	39
-trnV-UAC/?/tRNA/2	0.4	0.7	35
-trnW-CCA/?/tRNA/1	0.4	0.7	74
-trnY-GUA/?/tRNA/1	0.4	0.7	84
-ycf1/?/CDS/1	0.025	0.10	5575
-ycf2/?/CDS/1	0.05	0.15	6845
-pafI/?/CDS/1	0.1	0.25	124
-pafI/?/CDS/2	0.1	0.25	230
-pafI/?/CDS/3	0.1	0.25	153
-pafI/?/intron/1	0.1	0.1	727
-pafI/?/intron/2	0.1	0.1	740
-pafII/?/CDS/1	0.05	0.25	555
-psb30/?/CDS/1	0.05	0.125	102
-ycf66/?/CDS/1	0.1	0.25	106
-ycf66/?/CDS/2	0.1	0.25	311
-ycf66/?/intron/1	0.1	0.1	514
+path	essential	median_length
+accD/CDS/1	1	1476.0
+atpA/CDS/1	1	1525.0
+atpB/CDS/1	1	1496.0
+atpE/CDS/1	1	402.0
+atpF/CDS/1	1	145.0
+atpF/CDS/3	1	410.0
+atpF/intron/2	0	746.0
+atpH/CDS/1	1	246.0
+atpI/CDS/1	1	744.0
+ccsA/CDS/1	1	966.0
+cemA/CDS/1	1	690.0
+chlB/CDS/1	1	1542.0
+chlL/CDS/1	1	876.0
+chlN/CDS/1	1	1402.0
+clpP1/CDS/1	1	71.0
+clpP1/CDS/3	1	292.0
+clpP1/CDS/5	1	228.0
+clpP1/intron/2	0	811.0
+clpP1/intron/4	0	633.0
+cysA/CDS/1	1	1130.0
+cysT/CDS/1	1	867.0
+ffs/ncRNA/1	1	103.2
+infA/CDS/1	1	234.0
+matK/CDS/1	1	1527.0
+ndhA/CDS/1	1	553.0
+ndhA/CDS/3	1	539.0
+ndhA/intron/2	0	1072.0
+ndhB/CDS/1	1	723.0
+ndhB/CDS/3	1	756.0
+ndhB/intron/2	0	683.0
+ndhC/CDS/1	1	363.0
+ndhD/CDS/1	1	1504.0
+ndhE/CDS/1	1	306.0
+ndhF/CDS/1	1	2232.0
+ndhG/CDS/1	1	531.0
+ndhH/CDS/1	1	1182.0
+ndhI/CDS/1	1	504.0
+ndhJ/CDS/1	1	477.0
+ndhK/CDS/1	1	705.0
+pafI/CDS/1	1	124.0
+pafI/CDS/3	1	230.0
+pafI/CDS/5	1	153.0
+pafI/intron/2	0	727.0
+pafI/intron/4	0	740.0
+pafII/CDS/1	1	555.0
+pbf1/CDS/1	1	132.0
+petA/CDS/1	1	963.0
+petB/CDS/1	1	6.0
+petB/CDS/3	1	642.0
+petB/intron/2	0	781.0
+petD/CDS/1	1	8.0
+petD/CDS/3	1	475.0
+petD/intron/2	0	738.0
+petG/CDS/1	1	114.0
+petL/CDS/1	1	96.0
+petN/CDS/1	1	90.0
+psaA/CDS/1	1	2253.0
+psaB/CDS/1	1	2205.0
+psaC/CDS/1	1	246.0
+psaI/CDS/1	1	111.0
+psaJ/CDS/1	1	135.0
+psaM/CDS/1	1	93.0
+psb30/CDS/1	1	102.0
+psbA/CDS/1	1	1062.0
+psbB/CDS/1	1	1526.0
+psbC/CDS/1	1	1386.0
+psbD/CDS/1	1	1062.0
+psbE/CDS/1	1	252.0
+psbF/CDS/1	1	120.0
+psbH/CDS/1	1	222.0
+psbI/CDS/1	1	111.0
+psbJ/CDS/1	1	123.0
+psbK/CDS/1	1	186.0
+psbL/CDS/1	1	117.0
+psbM/CDS/1	1	105.0
+psbT/CDS/1	1	108.0
+psbZ/CDS/1	1	189.0
+rbcL/CDS/1	1	1428.0
+rpl2/CDS/1	1	391.0
+rpl2/CDS/3	1	434.0
+rpl2/intron/2	0	665.0
+rpl14/CDS/1	1	369.0
+rpl16/CDS/1	1	9.0
+rpl16/CDS/3	1	399.0
+rpl16/intron/2	0	1042.0
+rpl20/CDS/1	1	360.0
+rpl21/CDS/1	1	356.0
+rpl22/CDS/1	1	456.0
+rpl23/CDS/1	1	282.0
+rpl32/CDS/1	1	168.0
+rpl33/CDS/1	1	201.0
+rpl36/CDS/1	1	114.0
+rpoA/CDS/1	1	1014.0
+rpoB/CDS/1	1	3215.0
+rpoC1/CDS/1	1	432.0
+rpoC1/CDS/3	1	1618.0
+rpoC1/intron/2	0	757.0
+rpoC2/CDS/1	1	4154.0
+rps2/CDS/1	1	711.0
+rps3/CDS/1	1	657.0
+rps4/CDS/1	1	606.0
+rps7/CDS/1	1	468.0
+rps8/CDS/1	1	405.0
+rps11/CDS/1	1	417.0
+rps12A/CDS/1	1	114.0
+rps12A/intron/2	1	650.0
+rps12B/CDS/2	1	232.0
+rps12B/CDS/4	1	26.0
+rps12B/intron/1	1	900.0
+rps12B/intron/3	0	536.0
+rps14/CDS/1	1	303.0
+rps15/CDS/1	1	273.0
+rps16/CDS/1	1	40.0
+rps16/CDS/3	1	227.0
+rps16/intron/2	0	860.0
+rps18/CDS/1	1	306.0
+rps19/CDS/1	1	279.0
+rrn4.5/rRNA/1	1	103.0
+rrn5/rRNA/1	1	121.0
+rrn16/rRNA/1	1	1491.0
+rrn23/intron/2	0	684.0
+rrn23/rRNA/1	1	2610.0
+rrn23/rRNA/3	1	199.0
+trnA-UGC/intron/2	0	808.0
+trnA-UGC/tRNA/1	1	38.0
+trnA-UGC/tRNA/3	1	35.0
+trnC-GCA/tRNA/1	1	71.0
+trnD-GUC/tRNA/1	1	74.0
+trnE-UUC/tRNA/1	1	73.0
+trnF-GAA/tRNA/1	1	73.0
+trnfM-CAU/tRNA/1	1	74.0
+trnG-GCC/tRNA/1	1	71.0
+trnG-UCC/intron/2	0	698.0
+trnG-UCC/tRNA/1	1	23.0
+trnG-UCC/tRNA/3	1	48.0
+trnH-GUG/tRNA/1	1	75.0
+trnI-CAU/tRNA/1	1	74.0
+trnI-GAU/intron/2	1	946.0
+trnI-GAU/tRNA/1	1	37.0
+trnI-GAU/tRNA/3	1	35.0
+trnK-UUU/intron/2	0	2515.0
+trnK-UUU/tRNA/1	1	37.0
+trnK-UUU/tRNA/3	1	35.0
+trnL-CAA/tRNA/1	1	81.0
+trnL-UAA/intron/2	0	510.0
+trnL-UAA/tRNA/1	1	35.0
+trnL-UAA/tRNA/3	1	50.0
+trnL-UAG/tRNA/1	1	80.0
+trnM-CAU/tRNA/1	1	73.0
+trnN-GUU/tRNA/1	1	72.0
+trnP-GGG/tRNA/1	1	74.0
+trnP-UGG/tRNA/1	1	74.0
+trnQ-UUG/tRNA/1	1	72.0
+trnR-ACG/tRNA/1	1	74.0
+trnR-CCG/tRNA/1	1	74.0
+trnR-UCU/tRNA/1	1	72.0
+trnS-GCU/tRNA/1	1	88.0
+trnS-GGA/tRNA/1	1	87.0
+trnS-UGA/tRNA/1	1	93.0
+trnT-GGU/tRNA/1	1	72.0
+trnT-UGU/tRNA/1	1	73.0
+trnV-GAC/tRNA/1	1	72.0
+trnV-UAC/intron/2	0	591.0
+trnV-UAC/tRNA/1	1	39.0
+trnV-UAC/tRNA/3	1	35.0
+trnW-CCA/tRNA/1	1	74.0
+trnY-GUA/tRNA/1	1	84.0
+ycf1/CDS/1	1	5575.0
+ycf2/CDS/1	1	6845.0
+ycf66/CDS/1	1	106.0
+ycf66/CDS/3	1	311.0
+ycf66/intron/2	0	514.0
