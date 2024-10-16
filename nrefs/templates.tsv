@@ -1,4 +1,4 @@
-path	essential	median_length
-18SRRNA/rRNA/1	1	1809.5
-5.8SRRNA/rRNA/1	1	162.0
-26SRRNA/rRNA/1	1	3389.5
+path	essential	median_length	reference_strand
+18SRRNA/rRNA/1	1	1809.5	+
+5.8SRRNA/rRNA/1	1	162.0	+
+26SRRNA/rRNA/1	1	3389.5	+
